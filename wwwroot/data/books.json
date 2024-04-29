@@ -1,0 +1,86 @@
+[
+    {
+        "id": "self-dev#1",
+        "author": "Donald Joel",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666607/Bookry/100_Life_lessons_mwnezv.jpg",
+        "url": "https://selar.co/100LifeLessons",
+        "title": "100 LIFE LESSONS TO LEARN IN YOUR 20s and 30s"
+    },
+    {
+        "id": "self-dev#2",
+        "author": "Martin Meadows",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666610/Bookry/365_Days_with_self_discipline_gtbfsw.jpg",
+        "url": "https://www.goodreads.com/en/book/show/37765836",
+        "title": "365 Days With Self-Discipline"
+    },
+    {
+        "id": "self-dev#3",
+        "author": "Martin Meadows",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666613/Bookry/Grit_dmjxfb.jpg",
+        "url": "https://www.goodreads.com/en/book/show/25227833",
+        "title": "Grit: How to Keep Going When You Want to Give Up"
+    },
+    {
+        "id": "self-dev#4",
+        "author": "Koch Richard",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666624/Bookry/The_80_20_Principle_s51n3m.png",
+        "url": "https://www.pdfdrive.com/the-8020-principle-the-secret-of-achieving-more-with-less-e193611699.html",
+        "title": "The 80/20 Principle: The Secret to Achieving More with Less"
+    },
+    {
+        "id": "self-dev#5",
+        "author": "Gary Keller & Jay Papasan",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666630/Bookry/The_One_thing_tavsec.png",
+        "url": "https://www.pdfdrive.com/the-one-thing-the-surprisingly-simple-truth-behind-extraordinary-results-e196262683.html",
+        "title": "The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results"
+    },
+    {
+        "id": "self-dev#6",
+        "author": "Ben Carson & Cecil Murphey",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666605/Bookry/Think_big_yziyro.jpg",
+        "url": "https://www.goodreads.com/book/show/13465.Think_Big",
+        "title": "Think Big: Unleashing Your Potential for Excellence"
+    },
+    {
+        "id": "finance#1",
+        "author": "Robert T. Kiyosaki",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666617/Bookry/Rich_Dad_Poor_Dad_w6d9sq.jpg",
+        "url": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html",
+        "title": "Rich Dad Poor Dad"
+    },
+    {
+        "id": "finance#2",
+        "author": "MJ DeMarco",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666627/Bookry/The_milloniare_fast_lane_xgvmb0.jpg",
+        "url": "https://www.pdfdrive.com/the-millionaire-fastlane-crack-the-code-to-wealth-and-live-rich-for-a-lifetime-e188105373.html",
+        "title": "The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime"
+    },
+    {
+        "id": "finance#3",
+        "author": "Iyeke Oghenefejiro",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666619/Bookry/Stocks_made_easy_ijsp47.jpg",
+        "url": "https://businessday.ng/uncategorized/article/the-investors-handbook-navigating-nigerian-and-us-stock-markets/",
+        "title": "Stocks Made Easy"
+    },
+    {
+        "id": "finance#4",
+        "author": "Morgan Housel",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666633/Bookry/The_psychology_of_money_ut0euy.jpg",
+        "url": "https://pdfdrive.com.co/the-psychology-of-money-pdf-b/",
+        "title": "The Psychology of Money"
+    },
+    {
+        "id": "finance#5",
+        "author": "George Clarson",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666603/Bookry/The_richest_man_in_babylon_u21alt.jpg",
+        "url": "https://pdfdrive.com.co/the-richest-man-in-babylon-pdf/",
+        "title": "The Richest Man in Babylon"
+    },
+    {
+        "id": "relationsip#1",
+        "author": "Gary Chapman",
+        "img": "https://res.cloudinary.com/dzf7hx5dl/image/upload/v1711666621/Bookry/The_5_love_languages_kngydy.jpg",
+        "url": "https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X",
+        "title": "The 5 Love Languages: The Secret to Love that Lasts"
+    }
+]

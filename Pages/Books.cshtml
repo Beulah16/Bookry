@@ -1,0 +1,20 @@
+@page
+@model BookModel
+@{
+    ViewData["Title"] = "Books";
+}
+<div class="text-center">
+    <h1 class="display-4">Book List 📖</h1>
+</div>
+
+<div class="card-columns">
+    @foreach (var book in Model.Books)
+    {
+        <div class="card">
+            <div class="card-img" style="background-image: url('@book.Image');"></div>
+            <div class="card-body">
+                <h5 class="card-title">@book.Title</h5>
+            </div>
+        </div>
+    }
+</div>
